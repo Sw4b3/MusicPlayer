@@ -1,0 +1,7 @@
+Current Version 1.1
+Created 2017/02/12
+Author Andrew Schwabe
+
+
+1.1	- Added album cover art
+   	-Error prevention when audio file directory is incorrect 
